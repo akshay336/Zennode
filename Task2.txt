@@ -1,0 +1,41 @@
+Why do you like to join as a Software Developer?
+Passion for Problem Solving: Software development allows me to engage in creative problem-solving. I enjoy breaking down complex issues into manageable components and finding efficient solutions through code.
+
+Continuous Learning: The tech industry is dynamic, and software development provides a continuous learning environment. New technologies and methodologies emerge, keeping the work challenging and interesting.
+
+Impact and Innovation: Software has a significant impact on people's lives and various industries. Being a part of software development allows me to contribute to innovative solutions that can improve efficiency, convenience, and overall experiences.
+
+Top 3 Software/Tools that Inspire You:
+Git: Git is an essential version control tool. Its ability to track changes, collaborate seamlessly, and maintain a history of project development inspires me. The collaborative nature of Git promotes efficient teamwork.
+
+Visual Studio Code: VS Code is a powerful and extensible code editor. Its versatility, user-friendly interface, and a wide range of extensions make it an inspiring tool for developers seeking a streamlined and customizable coding experience.
+
+Docker: Docker simplifies the deployment of applications by encapsulating them in containers. The portability and consistency Docker provides across different environments inspire developers to create robust and scalable applications.
+
+Top 3 Organizations You'd Like to Join:
+Google: Known for its innovative projects, Google offers a stimulating environment for professionals. The focus on cutting-edge technologies, research, and a culture of continuous learning makes it an attractive organization.
+
+Microsoft: Microsoft's commitment to empowering individuals and organizations through technology aligns with my values. Their diverse range of products and services and emphasis on cloud computing make it an exciting place to work.
+
+Tesla: Tesla's groundbreaking work in the electric vehicle and renewable energy sectors is inspiring. Joining an organization that aims to revolutionize industries and contribute to sustainability would be both challenging and fulfilling.
+
+Position in the Industry After 2 Years:
+After two years, I envision myself as a seasoned software developer with expertise in specific technologies. I aim to take on more challenging projects, possibly in a leadership role, and contribute to the development of innovative solutions. Continuous learning and staying abreast of industry trends will remain a priority.
+
+3 Projects/Products Planned or Built:
+1. Basic Banking System
+• Objective - Basic Banking System A web application used to transfer virtual money between multiple users 
+and also record the banking transactions/activities.
+• Software & Tools used - PhpMyAdmin, HTML, CSS, JS, Visual studio code.
+2. Child Safety Device by Using IOT
+• Objective - The child safety device is capable of acting as a capable IOT device it provides parents with the 
+real time location, surrounding temperature, along with distress alarm buzzer for their child’s 
+surroundings.
+• Software & Tools used – MIT APP Inventor, Arduino IDE, Firebase Server and various types of sensors 
+like Arduino UNO, Node MCU (ESP8266), DTH11, Arduino, Heart Beat Sensor, Accelerometer, Panic 
+Button.
+3. library management system
+• Objective - The library management system has features such as add Book, Edit Book, list Book and delete 
+Book and also develop user registration and login module implementation.
+• Software & Tools used -HTML, CSS, Bootstrap, Servlet, JDBC and MySQL, SQL, Maven, IntelliJ idea, 
+Tomcat.
